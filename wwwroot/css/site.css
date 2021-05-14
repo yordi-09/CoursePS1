@@ -1,0 +1,11 @@
+﻿body {
+}
+
+#loggin-togle{
+    cursor: pointer;
+}
+
+.popup-form {
+    padding: 5px;
+    border: 2px black inset;
+}
